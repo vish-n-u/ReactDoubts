@@ -8,4 +8,4 @@ To Notice difference:-
   - Second copy the profile file and use it instead of profileClass and run it
   - You'll see the difference in console ...
 
-Note:- in aboutUs file i have <Outlet/> in which I passed the Profile class
+Note:- in aboutUs file i have "<"Outlet/">" in which I passed the Profile class
