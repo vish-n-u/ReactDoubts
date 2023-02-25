@@ -14,6 +14,7 @@ Note:- in aboutUs file i have "<"Outlet/">" in which I passed the Profile class 
  Basically, assuming that useEffect is equivalent to componentDidMount was Wrong , it doesnot work the same as lifecycle methods (which is more based on timing), it works  based on what code does
  
  A detail explanation can be found in https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/
+ 
  More resources can be found on https://overreacted.io/a-complete-guide-to-useeffect/
 
 
